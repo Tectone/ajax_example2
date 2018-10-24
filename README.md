@@ -1,1 +1,1 @@
-# ajax_example2
+# ajax_example
